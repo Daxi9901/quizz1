@@ -1,4 +1,4 @@
-  },
+  [
   {
     "question": "Šta je to: ima vrat, ali nema glavu?",
     "answers": ["Boca", "Drvo", "Čovek", "Lampa"],
@@ -240,4 +240,5 @@
     "explanation": "Sunce 'ide' danju i 'nestane' noću."
   }
 ]
+
 
