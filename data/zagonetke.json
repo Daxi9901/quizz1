@@ -1,39 +1,3 @@
-[
-  {
-    "question": "Šta je to: uvek ide, nikad ne stoji, nikad ne kasni, a sve nas prati?",
-    "answers": ["Vetar", "Vreme", "Reka", "Sunce"],
-    "correct": 1,
-    "explanation": "Vreme stalno teče i nikada ne staje."
-  },
-  {
-    "question": "Šta je to: ima ključeve, ali ne otključava vrata?",
-    "answers": ["Pijanista", "Stražar", "Muzička kutija", "Tastatura"],
-    "correct": 0,
-    "explanation": "Pijanista ima ključeve - dirke na klaviru."
-  },
-  {
-    "question": "Šta je teže: kilogram gvožđa ili kilogram pamuka?",
-    "answers": ["Kilogram gvožđa", "Kilogram pamuka", "Podjednako", "Zavisi od zapremine"],
-    "correct": 2,
-    "explanation": "Kilogram je kilogram, masa je ista."
-  },
-  {
-    "question": "Šta se suši dok mokri?",
-    "answers": ["Sunce", "Fen", "Peškir", "Vetar"],
-    "correct": 2,
-    "explanation": "Peškir se suši tako što upija vodu."
-  },
-  {
-    "question": "Što više oduzimaš, to postaje veća. Šta je to?",
-    "answers": ["Rupa", "Planina", "Senka", "Soba"],
-    "correct": 0,
-    "explanation": "Rupa se povećava što više kopaš."
-  },
-  {
-    "question": "Uvek stoji, nikad ne sedi, pokazuje vreme a ne govori. Šta je to?",
-    "answers": ["Sat", "Senka", "Stub", "Sunčanik"],
-    "correct": 0,
-    "explanation": "Sat pokazuje vreme ali ne govori."
   },
   {
     "question": "Šta je to: ima vrat, ali nema glavu?",
@@ -276,3 +240,4 @@
     "explanation": "Sunce 'ide' danju i 'nestane' noću."
   }
 ]
+
