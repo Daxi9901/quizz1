@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Koliko iznosi 15% od 200?",
+    "answers": ["25", "30", "35", "40"],
+    "correct": 1,
+    "explanation": "15% od 200 je 0.15 × 200 = 30."
+  },
+  {
+    "question": "Reši jednačinu: 3x − 9 = 0.",
+    "answers": ["x = 0", "x = 3", "x = −3", "x = 9"],
+    "correct": 1,
+    "explanation": "3x − 9 = 0 → 3x = 9 → x = 3."
+  },
+  {
+    "question": "Koji broj treba dodati broju 27 da bismo dobili 5 puta veći broj?",
+    "answers": ["81", "97", "108", "135"],
+    "correct": 2,
+    "explanation": "5 × 27 = 135. Tražimo n: 27 + n = 135 → n = 108."
+  },
+  {
+    "question": "Aritmetička sredina brojeva 6, 10 i 20 je:",
+    "answers": ["10", "11", "12", "18"],
+    "correct": 2,
+    "explanation": "(6 + 10 + 20) / 3 = 36 / 3 = 12."
+  },
+  {
+    "question": "Ako je 2/5 od broja x jednako 16, koliki je x?",
+    "answers": ["32", "40", "50", "64"],
+    "correct": 1,
+    "explanation": "2/5 × x = 16 → x = 16 × 5 / 2 = 40."
+  },
+  {
+    "question": "Kvadrat broja 9 je:",
+    "answers": ["18", "27", "72", "81"],
+    "correct": 3,
+    "explanation": "Kvadrat je množenje broja samim sobom: 9 × 9 = 81."
+  },
+  {
+    "question": "Petar je na testu imao 80% tačnih od 50 pitanja. Koliko je pitanja uradio tačno?",
+    "answers": ["30", "35", "40", "45"],
+    "correct": 2,
+    "explanation": "80% od 50 je 0.8 × 50 = 40."
+  },
+  {
+    "question": "Ako se stranica kvadrata poveća 3 puta, površina se poveća:",
+    "answers": ["3 puta", "6 puta", "9 puta", "12 puta"],
+    "correct": 2,
+    "explanation": "Površina kvadrata je s². Ako s pređe u 3s, površina je (3s)² = 9s², dakle 9 puta."
+  },
+  {
+    "question": "Koji je rezultat izraza: 7 + 3 × 4?",
+    "answers": ["40", "19", "28", "34"],
+    "correct": 1,
+    "explanation": "Prvo množenje: 3 × 4 = 12, zatim 7 + 12 = 19."
+  },
+  {
+    "question": "Reši jednačinu: 5x + 2 = 27.",
+    "answers": ["x = 4", "x = 5", "x = 6", "x = 7"],
+    "correct": 1,
+    "explanation": "5x + 2 = 27 → 5x = 25 → x = 5."
+  },
+  {
+    "question": "Procenat 25% je isto što i razlomak:",
+    "answers": ["1/2", "1/3", "1/4", "1/5"],
+    "correct": 2,
+    "explanation": "25% znači 25 od 100, tj. 25/100 = 1/4."
+  },
+  {
+    "question": "Dužina pravougaonika je 12 cm, a širina 5 cm. Površina je:",
+    "answers": ["17 cm²", "60 cm²", "24 cm²", "30 cm²"],
+    "correct": 1,
+    "explanation": "P = a × b = 12 × 5 = 60 cm²."
+  },
+  {
+    "question": "Koji broj je najveći?",
+    "answers": ["0.7", "0.77", "3/4", "0.8"],
+    "correct": 3,
+    "explanation": "0.7 = 70%, 3/4 = 0.75, 0.77 = 77%, 0.8 = 80%. Najveći je 0.8."
+  },
+  {
+    "question": "Ako se broj uveća za 20%, a zatim smanji za 20%, krajnji rezultat je:",
+    "answers": ["isti broj", "veći broj", "manji broj", "zavisi od broja"],
+    "correct": 2,
+    "explanation": "Primer: 100 → +20% = 120 → −20% = 96. Uvek je manji, jer se 20% drugi put računa od većeg broja."
+  },
+  {
+    "question": "Koliko je 3/4 od 64?",
+    "answers": ["32", "36", "40", "48"],
+    "correct": 3,
+    "explanation": "3/4 × 64 = 64 × 0.75 = 48."
+  },
+  {
+    "question": "Ako automobil pređe 300 km za 4 sata, prosečna brzina je:",
+    "answers": ["60 km/h", "70 km/h", "75 km/h", "80 km/h"],
+    "correct": 2,
+    "explanation": "v = s / t = 300 / 4 = 75 km/h."
+  },
+  {
+    "question": "Reši sistem: x + y = 10, x − y = 4.",
+    "answers": ["x = 7, y = 3", "x = 3, y = 7", "x = 6, y = 4", "x = 5, y = 5"],
+    "correct": 0,
+    "explanation": "Saberi jednačine: (x+y)+(x−y)=10+4 → 2x=14 → x=7, pa y=10−7=3."
+  },
+  {
+    "question": "Broj 420 ima koliko različitih prostih delioca?",
+    "answers": ["2", "3", "4", "5"],
+    "correct": 2,
+    "explanation": "420 = 2² × 3 × 5 × 7. Različiti prosti delioci su 2, 3, 5 i 7 – ukupno 4."
+  },
+  {
+    "question": "Obim pravougaonika je 34 cm, a jedna stranica je 8 cm. Druga stranica je:",
+    "answers": ["9 cm", "10 cm", "11 cm", "13 cm"],
+    "correct": 0,
+    "explanation": "Obim je 2(a+b)=34 → a+b=17. Ako je a=8, onda je b=17−8=9 cm."
+  },
+  {
+    "question": "Kvadrat ima obim 48 cm. Kolika je površina tog kvadrata?",
+    "answers": ["64 cm²", "144 cm²", "256 cm²", "576 cm²"],
+    "correct": 1,
+    "explanation": "Obim kvadrata je 4a=48 → a=12. Površina je a²=12²=144 cm²."
+  },
+  {
+    "question": "Ako se broj poveća sa 80 na 100, za koliko procenata je porastao?",
+    "answers": ["20%", "25%", "30%", "18%"],
+    "correct": 1,
+    "explanation": "Porast je 20 u odnosu na 80: 20/80 = 0.25 = 25%."
+  },
+  {
+    "question": "Koliki je zbir unutrašnjih uglova trougla?",
+    "answers": ["90°", "120°", "180°", "360°"],
+    "correct": 2,
+    "explanation": "Svaki trougao ima zbir unutrašnjih uglova 180°."
+  },
+  {
+    "question": "Ako je 7x = 84, koliko je x?",
+    "answers": ["7", "9", "10", "12"],
+    "correct": 3,
+    "explanation": "x = 84 / 7 = 12."
+  },
+  {
+    "question": "Broj 3, 4 i 5 su stranice pravouglog trougla. Najduža stranica je:",
+    "answers": ["3", "4", "5", "12"],
+    "correct": 2,
+    "explanation": "3²+4² = 9+16 = 25 = 5², pa je hipotenuza 5."
+  },
+  {
+    "question": "Ako je 60 podeljeno na dva broja u odnosu 2 : 3, veći broj je:",
+    "answers": ["24", "30", "32", "36"],
+    "correct": 3,
+    "explanation": "2+3=5 delova. Jedan deo je 60/5=12. Veći broj je 3 dela: 3×12 = 36."
+  },
+  {
+    "question": "Broj 0.2 je isto što i razlomak:",
+    "answers": ["1/2", "1/3", "1/4", "1/5"],
+    "correct": 3,
+    "explanation": "0.2 je jedna petina, tj. 1/5."
+  },
+  {
+    "question": "Ako radnik za 8 sati zaradi 4800 dinara, njegova satnica je:",
+    "answers": ["400 din", "500 din", "600 din", "800 din"],
+    "correct": 2,
+    "explanation": "4800 / 8 = 600 dinara po satu."
+  },
+  {
+    "question": "Ako su brojevi u nizu: 2, 6, 18, 54, ?, sledeći broj je:",
+    "answers": ["108", "162", "216", "324"],
+    "correct": 1,
+    "explanation": "Svaki broj je puta 3: 2×3=6, 6×3=18, 18×3=54, 54×3=162."
+  },
+  {
+    "question": "Reši jednačinu: 4(x − 2) = 16.",
+    "answers": ["x = 2", "x = 3", "x = 4", "x = 6"],
+    "correct": 3,
+    "explanation": "4(x−2)=16 → x−2=4 → x=6."
+  },
+  {
+    "question": "Ako je zbir dva broja 50, a razlika 10, veći broj je:",
+    "answers": ["20", "25", "30", "35"],
+    "correct": 2,
+    "explanation": "a+b=50, a−b=10 → 2a=60 → a=30."
+  },
+  {
+    "question": "Koliko iznosi 2/3 od 90?",
+    "answers": ["50", "55", "60", "65"],
+    "correct": 2,
+    "explanation": "2/3 od 90 je 90 × 2 / 3 = 60."
+  },
+  {
+    "question": "Broj 7! (faktorijel) je jednak:",
+    "answers": ["5040", "720", "840", "120"],
+    "correct": 0,
+    "explanation": "7! = 7×6×5×4×3×2×1 = 5040."
+  },
+  {
+    "question": "Ako pravilan mnogougao ima unutrašnji ugao od 120°, koliko ima stranica?",
+    "answers": ["4", "5", "6", "8"],
+    "correct": 2,
+    "explanation": "Unutrašnji ugao pravilnog n-stranog je (n−2)180°/n. Rešavamo (n−2)180/n=120 → 180n−360=120n → 60n=360 → n=6."
+  },
+  {
+    "question": "Reši jednačinu: 2x² = 50.",
+    "answers": ["x = 5", "x = −5", "x = ±5", "x = 25"],
+    "correct": 2,
+    "explanation": "2x²=50 → x²=25 → x=±5."
+  },
+  {
+    "question": "Ako zbir brojeva 8, x i 14 iznosi 40, onda je x:",
+    "answers": ["16", "18", "20", "22"],
+    "correct": 1,
+    "explanation": "8 + x + 14 = 40 → x + 22 = 40 → x = 18."
+  },
+  {
+    "question": "Ako kvadrat broja x iznosi 196, koliko je |x|?",
+    "answers": ["12", "13", "14", "15"],
+    "correct": 2,
+    "explanation": "x² = 196 → |x| = √196 = 14."
+  },
+  {
+    "question": "Pravougli trougao ima katete 9 cm i 12 cm. Dužina hipotenuze je:",
+    "answers": ["15 cm", "18 cm", "20 cm", "21 cm"],
+    "correct": 0,
+    "explanation": "c² = 9² + 12² = 81 + 144 = 225 → c = 15 cm."
+  },
+  {
+    "question": "Kocka ima zapreminu 125 cm³. Dužina ivice kocke je:",
+    "answers": ["4 cm", "5 cm", "6 cm", "8 cm"],
+    "correct": 1,
+    "explanation": "Zapremina kocke je a³ = 125 → a = 5."
+  },
+  {
+    "question": "Ako 40% nekog broja iznosi 28, taj broj je:",
+    "answers": ["60", "65", "70", "75"],
+    "correct": 2,
+    "explanation": "0.4 × x = 28 → x = 28 / 0.4 = 70."
+  },
+  {
+    "question": "Geometrijska sredina brojeva 4 i 9 je:",
+    "answers": ["5", "6", "√26", "6.5"],
+    "correct": 1,
+    "explanation": "Geometrijska sredina je √(4×9) = √36 = 6."
+  },
+  {
+    "question": "Ako se dve uzastopne cele brojeve pomnoži, dobija se 56. Ti brojevi su:",
+    "answers": ["6 i 8", "7 i 8", "8 i 9", "5 i 11"],
+    "correct": 1,
+    "explanation": "7×8 = 56, ostali proizvodi nisu 56."
+  },
+  {
+    "question": "Poluprečnik kruga je 7 cm. Približna površina kruga je (π≈3.14):",
+    "answers": ["≈140 cm²", "≈144 cm²", "≈150 cm²", "≈154 cm²"],
+    "correct": 3,
+    "explanation": "P=πr²≈3.14×7²=3.14×49≈153.86, zaokruženo ≈154 cm²."
+  },
+  {
+    "question": "Jedan proizvod je snižen sa 2000 dinara na 1500 dinara. Popust u procentima je:",
+    "answers": ["20%", "25%", "30%", "35%"],
+    "correct": 1,
+    "explanation": "Popust je 500 dinara. 500/2000 = 0.25 = 25%."
+  },
+  {
+    "question": "Pravougaonik ima dijagonalu 13 cm i jednu stranicu 5 cm. Druga stranica je:",
+    "answers": ["10 cm", "11 cm", "12 cm", "13 cm"],
+    "correct": 2,
+    "explanation": "13² = 5² + b² → 169 = 25 + b² → b² = 144 → b = 12 cm."
+  },
+  {
+    "question": "Reši jednačinu: (x − 3)/5 = 4.",
+    "answers": ["x = 7", "x = 15", "x = 20", "x = 23"],
+    "correct": 3,
+    "explanation": "(x−3)/5 = 4 → x−3 = 20 → x = 23."
+  },
+  {
+    "question": "Koji je zbir svih celih brojeva od 1 do 50?",
+    "answers": ["1175", "1225", "1275", "1325"],
+    "correct": 2,
+    "explanation": "Zbir od 1 do n je n(n+1)/2. Za n=50: 50×51/2 = 25×51 = 1275."
+  },
+  {
+    "question": "U razredu je 15 dečaka i 10 devojčica. Koliki procenat razreda čine devojčice?",
+    "answers": ["25%", "33%", "40%", "50%"],
+    "correct": 2,
+    "explanation": "Ukupno 25 učenika. 10/25 = 0.4 = 40%."
+  },
+  {
+    "question": "Ako voz pređe 180 km za 2.5 sati, prosečna brzina je:",
+    "answers": ["60 km/h", "70 km/h", "72 km/h", "75 km/h"],
+    "correct": 2,
+    "explanation": "v = s/t = 180 / 2.5 = 72 km/h."
+  },
+  {
+    "question": "Koliko različitih trocifrenih brojeva se može napisati ciframa 1, 2 i 3 ako se cifre ne ponavljaju?",
+    "answers": ["3", "4", "5", "6"],
+    "correct": 3,
+    "explanation": "Permutacije tri cifre: 3! = 6 (123, 132, 213, 231, 312, 321)."
+  },
+  {
+    "question": "Ako zbir prvih n prirodnih brojeva iznosi 55, koliko je n?",
+    "answers": ["9", "10", "11", "12"],
+    "correct": 1,
+    "explanation": "Formula: n(n+1)/2 = 55 → n(n+1) = 110. n=10 daje 10×11 = 110."
+  }
+]

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MegaMix Kviz</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header>
+    <div class="container nav">
+
+
+
+      <button id="menuToggle" aria-label="Otvori meni">☰</button>
+
+
+
+    </div>
+  </header>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="container">
+      <h1>MegaMix znanja.</h1>
+      <p>
+        Logika, matematika, istorija, geografija, nauka, kultura, kreativna pitanja i zagonetke –
+        sve sa objašnjenjima i high score sistemom.
+      </p>
+    </div>
+  </section>
+
+  <!-- CATEGORIES -->
+  <section class="categories">
+    <div class="container">
+      <h2>Kategorije</h2>
+      <p class="sub">Izaberi oblast sa kojom želiš da počneš:</p>
+
+      <div class="grid">
+
+        <!-- LOGIKA -->
+        <a class="card" href="quiz.html?cat=logika">
+          <div class="icon">
+            <svg width="26" height="26" fill="none" stroke="#444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 3a3 3 0 0 0-3 3v1H8a3 3 0 1 0 0 6h1v2H8a3 3 0 0 0 0 6h1v1a3 3 0 1 0 6 0v-1h1a3 3 0 1 0 0-6h-1v-2h1a3 3 0 1 0 0-6h-1V6a3 3 0 0 0-3-3z"/>
+            </svg>
+          </div>
+          <span>Logika</span>
+        </a>
+
+        <!-- MATEMATIKA -->
+        <a class="card" href="quiz.html?cat=matematika">
+          <div class="icon">
+            <svg width="26" height="26" fill="none" stroke="#444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14M12 5v14" />
+            </svg>
+          </div>
+          <span>Matematika</span>
+        </a>
+
+        <!-- ISTORIJA -->
+        <a class="card" href="quiz.html?cat=istorija">
+          <div class="icon">
+            <svg width="26" height="26" fill="none" stroke="#444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="9" />
+              <path d="M12 7v5l3 2" />
+            </svg>
+          </div>
+          <span>Istorija</span>
+        </a>
+
+        <!-- GEOGRAFIJA -->
+        <a class="card" href="quiz.html?cat=geografija">
+          <div class="icon">
+            <svg width="26" height="26" fill="none" stroke="#444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="9"></circle>
+              <path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20" />
+            </svg>
+          </div>
+          <span>Geografija</span>
+        </a>
+
+        <!-- NAUKA -->
+        <a class="card" href="quiz.html?cat=nauka">
+          <div class="icon">
+            <svg width="26" height="26" fill="none" stroke="#444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M6 3h12l-1 5H7L6 3z" />
+              <path d="M5 13h14l-1 8H6l-1-8z" />
+            </svg>
+          </div>
+          <span>Nauka</span>
+        </a>
+
+        <!-- KULTURA -->
+        <a class="card" href="quiz.html?cat=kultura">
+          <div class="icon">
+            <svg width="26" height="26" fill="none" stroke="#444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 19h16M4 5h16M4 12h16" />
+            </svg>
+          </div>
+          <span>Kultura</span>
+        </a>
+
+        <!-- KREATIVNO -->
+        <a class="card" href="quiz.html?cat=kreativno">
+          <div class="icon">
+            <svg width="26" height="26" fill="none" stroke="#444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 2l3 7h7l-5.5 4.5L18 21l-6-3.5L6 21l1.5-7.5L2 9h7z"/>
+            </svg>
+          </div>
+          <span>Kreativno</span>
+        </a>
+
+        <!-- ZAGONETKE -->
+        <a class="card" href="quiz.html?cat=kreativno">
+          <div class="icon">
+            <svg width="26" height="26" fill="none" stroke="#444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 4h6v6H4zM16 4h6v6h-6zM4 16h6v6H4zM16 16h6v6h-6z" />
+            </svg>
+          </div>
+          <span>Zagonetke</span>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container footer-inner">
+      <p>© 2025 MegaMix Kviz</p>
+
+      <div class="footer-links">
+        <a href="about.html">About</a>
+        <a href="contact.html">Kontakt</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms</a>
+        <a href="https://www.buymeacoffee.com/daxidarko9f" class="footer-bmc" target="_blank">Buy me a coffee</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.getElementById('menuToggle');
+    const menu = document.getElementById('mainMenu');
+    toggle.addEventListener('click', () => menu.classList.toggle('active'));
+  </script>
+
+</body>
+</html>

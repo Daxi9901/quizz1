@@ -1,0 +1,278 @@
+[
+  {
+    "question": "Šta je to: uvek ide, nikad ne stoji, nikad ne kasni, a sve nas prati?",
+    "answers": ["Vetar", "Vreme", "Reka", "Sunce"],
+    "correct": 1,
+    "explanation": "Vreme stalno teče i nikada ne staje."
+  },
+  {
+    "question": "Šta je to: ima ključeve, ali ne otključava vrata?",
+    "answers": ["Pijanista", "Stražar", "Muzička kutija", "Tastatura"],
+    "correct": 0,
+    "explanation": "Pijanista ima ključeve - dirke na klaviru."
+  },
+  {
+    "question": "Šta je teže: kilogram gvožđa ili kilogram pamuka?",
+    "answers": ["Kilogram gvožđa", "Kilogram pamuka", "Podjednako", "Zavisi od zapremine"],
+    "correct": 2,
+    "explanation": "Kilogram je kilogram, masa je ista."
+  },
+  {
+    "question": "Šta se suši dok mokri?",
+    "answers": ["Sunce", "Fen", "Peškir", "Vetar"],
+    "correct": 2,
+    "explanation": "Peškir se suši tako što upija vodu."
+  },
+  {
+    "question": "Što više oduzimaš, to postaje veća. Šta je to?",
+    "answers": ["Rupa", "Planina", "Senka", "Soba"],
+    "correct": 0,
+    "explanation": "Rupa se povećava što više kopaš."
+  },
+  {
+    "question": "Uvek stoji, nikad ne sedi, pokazuje vreme a ne govori. Šta je to?",
+    "answers": ["Sat", "Senka", "Stub", "Sunčanik"],
+    "correct": 0,
+    "explanation": "Sat pokazuje vreme ali ne govori."
+  },
+  {
+    "question": "Šta je to: ima vrat, ali nema glavu?",
+    "answers": ["Boca", "Drvo", "Čovek", "Lampa"],
+    "correct": 0,
+    "explanation": "Boca ima 'vrat'."
+  },
+  {
+    "question": "Šta uvek dolazi, ali nikada ne stiže?",
+    "answers": ["Ponedeljak", "Budućnost", "Proleće", "Voz"],
+    "correct": 1,
+    "explanation": "Kada stigne, više nije budućnost."
+  },
+  {
+    "question": "Šta leti bez krila, plače bez očiju?",
+    "answers": ["Oblak", "Vetar", "Kiša", "Sneg"],
+    "correct": 0,
+    "explanation": "Oblak leti nebom, kiša 'plače'."
+  },
+  {
+    "question": "Uvek je ispred tebe, a ne možeš da je vidiš. Šta je to?",
+    "answers": ["Prošlost", "Senka", "Budućnost", "Vetar"],
+    "correct": 2,
+    "explanation": "Budućnost je uvek ispred nas."
+  },
+  {
+    "question": "Šta pripada tebi, ali ga drugi češće koriste?",
+    "answers": ["Tvoj novac", "Tvoje ime", "Tvoj telefon", "Tvoja kuća"],
+    "correct": 1,
+    "explanation": "Drugi te dozivaju po imenu."
+  },
+  {
+    "question": "Šta može da putuje oko sveta, a da ostane u uglu?",
+    "answers": ["Telefon", "Mapa", "Poštanska marka", "Sat"],
+    "correct": 2,
+    "explanation": "Marka stoji u uglu koverte."
+  },
+  {
+    "question": "Šta je na sredini Pariza?",
+    "answers": ["Toranj", "Reka Sena", "Slovo 'r'", "Predsednik"],
+    "correct": 2,
+    "explanation": "U reči 'PaRis' u sredini je slovo R."
+  },
+  {
+    "question": "Šta raste dok stojiš, a nestaje kad sedneš?",
+    "answers": ["Tvoja senka", "Tvoje strpljenje", "Tvoj umor", "Broj ljudi"],
+    "correct": 2,
+    "explanation": "Kad stojiš - umaraš se, kad sedneš - umor se smanjuje."
+  },
+  {
+    "question": "Šta čovek ne može dugo držati u ustima?",
+    "answers": ["Jezik", "Vazduh", "Vodu", "Reč"],
+    "correct": 3,
+    "explanation": "Ne možeš 'držati reč' ako je prekršiš."
+  },
+  {
+    "question": "Šta ima mnogo zuba, a ne jede?",
+    "answers": ["Testera", "Zatvarač", "Ključ", "Grebalica"],
+    "correct": 0,
+    "explanation": "Testera ima zupce."
+  },
+  {
+    "question": "Šta jednom u minuti dođe, dvaput u momentu, a ni jednom u hiljadu godina?",
+    "answers": ["Slovo 'm'", "Slovo 'o'", "Slovo 'i'", "Slovo 'a'"],
+    "correct": 0,
+    "explanation": "Minuta - jedno m, moment - dva m."
+  },
+  {
+    "question": "Šta ima jedno oko, ali ne vidi?",
+    "answers": ["Igle", "Ciklon", "Oluja", "Krompir"],
+    "correct": 0,
+    "explanation": "Iglu provlačiš kroz 'oko'."
+  },
+  {
+    "question": "Šta uvek dolazi posle kiše?",
+    "answers": ["Sunce", "Duga", "Mokar put", "Slovo 'e'"],
+    "correct": 3,
+    "explanation": "Reč 'kiše' završava se slovom 'e'."
+  },
+  {
+    "question": "Koji točak automobila se najmanje okreće?",
+    "answers": ["Prednji levi", "Prednji desni", "Zadnji levi", "Rezervni"],
+    "correct": 3,
+    "explanation": "Rezervni se ne okreće."
+  },
+  {
+    "question": "Šta može da bude slomljeno, ali nikada nije držano?",
+    "answers": ["Kost", "Čaša", "Srce", "Obećanje"],
+    "correct": 3,
+    "explanation": "Obećanje se 'slama'."
+  },
+  {
+    "question": "Šta ima glavu i rep, a nema telo?",
+    "answers": ["Zmija", "Novčić", "Igle", "Čavao"],
+    "correct": 1,
+    "explanation": "Novčić ima glavu i rep."
+  },
+  {
+    "question": "Šta se penje gore i dole, ali se nikada ne pomera?",
+    "answers": ["Lift", "Stepenice", "Temperatura", "Vetar"],
+    "correct": 1,
+    "explanation": "Stepenice ostaju na mestu."
+  },
+  {
+    "question": "Šta uđe u vodu crveno, a izađe crno?",
+    "answers": ["Kamen", "Žar cigarete", "Olovka", "Čajna kesica"],
+    "correct": 1,
+    "explanation": "Žar se ugasi i pocrni."
+  },
+  {
+    "question": "Šta ima mnogo rupa, ali može da drži vodu?",
+    "answers": ["Mreža", "Sunđer", "Sito", "Cev"],
+    "correct": 1,
+    "explanation": "Sunđer upija vodu."
+  },
+  {
+    "question": "Šta ide uz planinu i niz planinu, ali ostaje na istom mestu?",
+    "answers": ["Senka", "Put", "Vetar", "Reka"],
+    "correct": 1,
+    "explanation": "Put je urezan u planinu."
+  },
+  {
+    "question": "Šta je uvek ispred nas, ali ga nikada ne možemo dostići?",
+    "answers": ["Vreme", "Cilj", "Sutra", "Senka"],
+    "correct": 2,
+    "explanation": "Sutra je uvek jedan dan ispred."
+  },
+  {
+    "question": "Šta ima dno na vrhu?",
+    "answers": ["Boca", "Planina", "More", "Šešir"],
+    "correct": 3,
+    "explanation": "Šešir ima dno gore."
+  },
+  {
+    "question": "Šta možeš slomiti, a da ga nikad ne dotakneš?",
+    "answers": ["Staklo", "Led", "Poverenje", "Vazu"],
+    "correct": 2,
+    "explanation": "Poverenje se ne dodiruje."
+  },
+  {
+    "question": "Šta ima oči, a ne može da gleda?",
+    "answers": ["Oluja", "Riba", "Krompir", "Avion"],
+    "correct": 2,
+    "explanation": "Krompir ima 'okca'."
+  },
+  {
+    "question": "Šta leti oko kuće, a nikad je ne dodirne?",
+    "answers": ["Pčela", "Ptica", "Vazduh", "Vetar"],
+    "correct": 3,
+    "explanation": "Vetar struji oko kuće."
+  },
+  {
+    "question": "Šta je u krevetu, ali nikad ne spava?",
+    "answers": ["Jastuk", "Ćebe", "Reka", "Mačka"],
+    "correct": 2,
+    "explanation": "Reka teče kroz 'rečno korito'."
+  },
+  {
+    "question": "Šta se popne uz dimnjak, ali ne može da siđe niz dimnjak?",
+    "answers": ["Dim", "Zatvoreni kišobran", "Otvoreni kišobran", "List"],
+    "correct": 2,
+    "explanation": "Otvoren kišobran ne može niz dimnjak."
+  },
+  {
+    "question": "Šta ima rebra, ali nema telo?",
+    "answers": ["Knjiga", "Krov", "Kišobran", "Brojčanik"],
+    "correct": 2,
+    "explanation": "Kišobran ima metalna rebra."
+  },
+  {
+    "question": "Šta je uvek tačno između dva čoveka, ali nikada nije isto?",
+    "answers": ["Udaljenost", "Razlika", "Tema", "Prošlost"],
+    "correct": 0,
+    "explanation": "Udaljenost postoji, ali se menja."
+  },
+  {
+    "question": "Šta je uvek u tvojoj sobi, ali ga ne možeš dodirnuti?",
+    "answers": ["Vazduh", "Senka", "Temperatura", "Zvuk"],
+    "correct": 0,
+    "explanation": "Vazduh je svuda."
+  },
+  {
+    "question": "Šta se čuje, ali nema glas?",
+    "answers": ["Echo", "Misao", "Tišina", "Zvuk vetra"],
+    "correct": 0,
+    "explanation": "Echo je odjek zvuka."
+  },
+  {
+    "question": "Šta je tvoje, ali ga drugi koriste više?",
+    "answers": ["Ime", "Telefon", "Krevet", "Novčanik"],
+    "correct": 0,
+    "explanation": "Drugi te dozivaju tvojim imenom."
+  },
+  {
+    "question": "Šta ima koren, ali nije biljka?",
+    "answers": ["Kvadratni koren", "Telefon", "Lozinka", "Kamera"],
+    "correct": 0,
+    "explanation": "Matematički pojam."
+  },
+  {
+    "question": "Šta je noću uvek tu, a danju ga ponekad nema?",
+    "answers": ["Mesec", "Senka", "Zvezde", "Oblaci"],
+    "correct": 2,
+    "explanation": "Zvezde uvek postoje, danju se ne vide."
+  },
+  {
+    "question": "Šta ima broj, ali nije računar?",
+    "answers": ["Kuća", "Automobil", "Telefon", "Patika"],
+    "correct": 0,
+    "explanation": "Kuće imaju kućni broj."
+  },
+  {
+    "question": "Šta ima jedno uho, ali ne čuje?",
+    "answers": ["Igle", "Kukurz", "Kamen", "Čaša"],
+    "correct": 1,
+    "explanation": "Klip kukuruza ima 'uši'."
+  },
+  {
+    "question": "Šta možeš otvoriti, ali ne i zatvoriti?",
+    "answers": ["Usta", "Knjigu", "Srce", "Obećanje"],
+    "correct": 3,
+    "explanation": "Obećanje se ne može 'zatvoriti'."
+  },
+  {
+    "question": "Šta ide gore, ali nikad ne ide dole?",
+    "answers": ["Dim", "Starost", "Balon", "Pena"],
+    "correct": 1,
+    "explanation": "Godine samo rastu."
+  },
+  {
+    "question": "Šta ima grad, ali nema krov?",
+    "answers": ["Mapa", "Zamak", "Telefon", "Čizma"],
+    "correct": 0,
+    "explanation": "Mapa ima gradove nacrtane."
+  },
+  {
+    "question": "Šta leti danju, a spava noću, ali nije živo?",
+    "answers": ["Vetar", "Avion", "Satelit", "Sunce"],
+    "correct": 3,
+    "explanation": "Sunce 'ide' danju i 'nestane' noću."
+  }
+]

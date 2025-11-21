@@ -1,0 +1,230 @@
+[
+  {
+    "question": "Ko je napisao tragediju 'Romeo i Julija'?",
+    "answers": ["Vilijam Šekspir", "Molijer", "Dante", "Servantes"],
+    "correct": 0,
+    "explanation": "Šekspir je autor jedne od najpoznatijih ljubavnih tragedija."
+  },
+  {
+    "question": "Ko je naslikao Mona Lizu?",
+    "answers": ["Mikelanđelo", "Leonardo da Vinči", "Rafael", "Donatelo"],
+    "correct": 1,
+    "explanation": "Leonardo da Vinči je naslikao Mona Lizu početkom 16. veka."
+  },
+  {
+    "question": "Ko je autor romana 'Na Drini ćuprija'?",
+    "answers": ["Ivo Andrić", "Mesa Selimović", "Dobrica Ćosić", "Danilo Kiš"],
+    "correct": 0,
+    "explanation": "Ivo Andrić je za ovaj roman dobio Nobelovu nagradu."
+  },
+  {
+    "question": "Koja zemlja je rodno mesto opere?",
+    "answers": ["Francuska", "Austrija", "Italija", "Nemačka"],
+    "correct": 2,
+    "explanation": "Opera je nastala u Italiji krajem 16. veka."
+  },
+  {
+    "question": "Ko je napisao roman 'Zločin i kazna'?",
+    "answers": ["Tolstoj", "Dostojevski", "Gorki", "Puškin"],
+    "correct": 1,
+    "explanation": "Fjodor Dostojevski je autor ovog psihološkog romana."
+  },
+  {
+    "question": "Ko je naslikao 'Noćnu stražu'?",
+    "answers": ["Vermer", "Ruben", "Rembrant", "Botičeli"],
+    "correct": 2,
+    "explanation": "Rembrantovo remek-delo iz 1642. godine."
+  },
+  {
+    "question": "Ko je komponovao 'Odu radosti'?",
+    "answers": ["Mocart", "Betoven", "Brahms", "Šubert"],
+    "correct": 1,
+    "explanation": "Betovenova Deveta simfonija sadrži 'Odu radosti'."
+  },
+  {
+    "question": "Koja je najveća književna nagrada na svetu?",
+    "answers": ["Pulicerova", "Bukerova", "Nobelova", "Goncurova"],
+    "correct": 2,
+    "explanation": "Nobelova nagrada za književnost dodeljuje se od 1901."
+  },
+  {
+    "question": "Ko je autor 'Gorskog vijenca'?",
+    "answers": ["Njegoš", "Andrić", "Crnjanski", "Skerlić"],
+    "correct": 0,
+    "explanation": "Njegoš je napisao ovo epsko-poetsko delo 1847."
+  },
+  {
+    "question": "Gde se održava festival 'Oktoberfest'?",
+    "answers": ["Beč", "Berlin", "Minhen", "Hamburg"],
+    "correct": 2,
+    "explanation": "Najveći festival piva održava se u Minhenu."
+  },
+  {
+    "question": "Ko je autor baleta 'Labudovo jezero'?",
+    "answers": ["Čajkovski", "Straus", "Prokofjev", "Rahmanjinov"],
+    "correct": 0,
+    "explanation": "Čajkovski je komponovao balet 1875–1876."
+  },
+  {
+    "question": "Ko je napisao delo 'Prokleta avlija'?",
+    "answers": ["Crnjanski", "Andrić", "Selimović", "Ćosić"],
+    "correct": 1,
+    "explanation": "Pripovest Ive Andrića inspirisana stvarnim dogadjajima."
+  },
+  {
+    "question": "Koji je rodni grad Wolfganga Amadeusa Mocarta?",
+    "answers": ["Beč", "Berlin", "Salcburg", "Prag"],
+    "correct": 2,
+    "explanation": "Mocart je rođen 1756. u Salcburgu."
+  },
+  {
+    "question": "Koja skulptura prikazuje ženu bez ruku?",
+    "answers": ["Miloška Venera", "Pijetà", "David", "Kariatide"],
+    "correct": 0,
+    "explanation": "Miloška Venera je antička statua iz 2. veka p.n.e."
+  },
+  {
+    "question": "Ko je autor pesme 'Santa Maria della Salute'?",
+    "answers": ["Zmaj", "Dis", "Laza Kostić", "Šantić"],
+    "correct": 2,
+    "explanation": "Laza Kostić je napisao pesmu inspirisanu Lenkom Dunđerski."
+  },
+  {
+    "question": "Gde se nalazi Luvr, jedan od najvećih muzeja na svetu?",
+    "answers": ["London", "Madrid", "Rim", "Pariz"],
+    "correct": 3,
+    "explanation": "Luvr je simbol francuske umetnosti i istorije."
+  },
+  {
+    "question": "Koja je najpoznatija slika Van Goga?",
+    "answers": ["Zvezdana noć", "Autoportret", "Irmine", "Majke na polju"],
+    "correct": 0,
+    "explanation": "'Zvezdana noć' je jedno od najpoznatijih dela modernizma."
+  },
+  {
+    "question": "Ko je napisao 'Seobe'?",
+    "answers": ["Crnjanski", "Ćosić", "Ćopić", "Andrić"],
+    "correct": 0,
+    "explanation": "Crnjanski je autor ovog monumentalnog romana."
+  },
+  {
+    "question": "Ko je smatra glavnim osnivačem modernog baleta?",
+    "answers": ["Petipa", "Nižinski", "Čehova", "Stravinski"],
+    "correct": 0,
+    "explanation": "Marius Petipa je tvorac klasičnog baletskog stila."
+  },
+  {
+    "question": "Ko je osnovao pozorište 'Globe' u Londonu?",
+    "answers": ["Dickens", "Chaucer", "Shakespeare", "Byron"],
+    "correct": 2,
+    "explanation": "Šekspir je bio suvlasnik i najpoznatiji autor Glob teatra."
+  },
+  {
+    "question": "Ko je režirao film 'Građanin Kejn'?",
+    "answers": ["Hitchcock", "Kubrick", "Welles", "Coppola"],
+    "correct": 2,
+    "explanation": "Orson Welles je režirao čuveni film iz 1941."
+  },
+  {
+    "question": "Koji instrument svira Niccolò Paganini?",
+    "answers": ["Klavir", "Violina", "Harfa", "Flauta"],
+    "correct": 1,
+    "explanation": "Paganini je bio virtuoz na violini."
+  },
+  {
+    "question": "Koja je najpoznatija Šekspirova tragedija osim 'Hamleta'?",
+    "answers": ["Kralj Lir", "Macbeth", "Otelo", "Sve navedeno"],
+    "correct": 3,
+    "explanation": "Sve ove tragedije su među Šekspirovim najpoznatijim delima."
+  },
+  {
+    "question": "Ko je napisao roman 'Derviš i smrt'?",
+    "answers": ["Selimović", "Ćosić", "Andrić", "Lalić"],
+    "correct": 0,
+    "explanation": "Meša Selimović je napisao roman 1966."
+  },
+  {
+    "question": "U kom gradu se nalazi opera 'La Scala'?",
+    "answers": ["Milano", "Rim", "Venecija", "Napulj"],
+    "correct": 0,
+    "explanation": "Milanska Scala je jedna od najpoznatijih opera sveta."
+  },
+  {
+    "question": "Ko je autor 'Božanstvene komedije'?",
+    "answers": ["Petrarka", "Bokačo", "Dante Aligijeri", "Taso"],
+    "correct": 2,
+    "explanation": "Dante je napisao ovaj ep u 14. veku."
+  },
+  {
+    "question": "Ko je komponovao 'Četiri godišnja doba'?",
+    "answers": ["Vivaldi", "Bach", "Mocart", "Hendel"],
+    "correct": 0,
+    "explanation": "Vivaldi je napisao ciklus od četiri violinska koncerta."
+  },
+  {
+    "question": "Ko je poznat kao 'otac modernog romana'?",
+    "answers": ["Servantes", "Balzak", "Tolstoj", "Dostojevski"],
+    "correct": 0,
+    "explanation": "Servantes je napisao Don Kihota, prvi moderni roman."
+  },
+  {
+    "question": "Ko je napisao zbirku 'Antologija srpske poezije'?",
+    "answers": ["Skerlić", "Šantić", "Zmaj", "Pavlović"],
+    "correct": 0,
+    "explanation": "Jovan Skerlić je jedan od najvećih kritičara srpske književnosti."
+  },
+  {
+    "question": "Ko je naslikao fresku 'Poslednja večera'?",
+    "answers": ["Rafael", "Da Vinči", "Đoto", "Karavađo"],
+    "correct": 1,
+    "explanation": "Leonardo da Vinči je autor freske u Milanu."
+  },
+  {
+    "question": "Koji slavni ruski pisac je napisao 'Ana Karenjinu'?",
+    "answers": ["Tolstoj", "Dostojevski", "Gorki", "Puškin"],
+    "correct": 0,
+    "explanation": "Lav Tolstoj je autor ovog romana."
+  },
+  {
+    "question": "Kojem umetničkom stilu pripada Picasso?",
+    "answers": ["Renesansa", "Kubizam", "Ekspresionizam", "Barok"],
+    "correct": 1,
+    "explanation": "Pikaso je jedan od osnivača kubizma."
+  },
+  {
+    "question": "Gde je nastao jazz?",
+    "answers": ["Nju Orleans", "Čikago", "Njujork", "Los Anđeles"],
+    "correct": 0,
+    "explanation": "Jazz je nastao u Nju Orleansu početkom 20. veka."
+  },
+  {
+    "question": "Ko je autor 'Stranca'?",
+    "answers": ["Kamije", "Sartre", "Kafka", "Orvel"],
+    "correct": 0,
+    "explanation": "Albert Kami je napisao roman 1942."
+  },
+  {
+    "question": "Koja zemlja ima najviše UNESCO spomenika?",
+    "answers": ["Francuska", "Kina", "Italija", "Indija"],
+    "correct": 2,
+    "explanation": "Italija ima najveći broj kulturnih lokaliteta pod zaštitom UNESCO-a."
+  },
+  {
+    "question": "Ko je autor kompozicije 'Bolero'?",
+    "answers": ["Ravel", "Debisi", "Šopen", "Rahmanjinov"],
+    "correct": 0,
+    "explanation": "Maurice Ravel je komponovao čuveni Bolero 1928."
+  },
+  {
+    "question": "Koja je najduža pozorišna drama na svetu?",
+    "answers": ["Hamlet", "Otelo", "Kralj Lir", "Ujka Vanja"],
+    "correct": 0,
+    "explanation": "Hamlet je Šekspirova najduža drama."
+  },
+  {
+    "question": "Ko je autor 'Malog princa'?",
+    "answers": ["Žil Vern", "Antoan de Sent Egziperi", "Balzak", "Dos Passos"],
+    "correct": 1,
+    "explanation": "Egziperi je napisao 'Malog princa' 1943."
+  }
+]

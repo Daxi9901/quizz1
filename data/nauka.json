@@ -1,0 +1,271 @@
+[
+  {
+    "question": "Koja čestica određuje hemijski identitet elementa?",
+    "answers": ["Neutron", "Proton", "Elektron", "Kvark"],
+    "correct": 1,
+    "explanation": "Broj protona u jezgri (atomski broj) određuje koji element je u pitanju."
+  },
+  {
+    "question": "Šta predstavlja pojam „entropija“ u termodinamici?",
+    "answers": ["Ukupnu energiju sistema", "Nivo nereda u sistemu", "Brzinu promene pritiska", "Količinu toplote u zapremini"],
+    "correct": 1,
+    "explanation": "Entropija je mera nereda ili broja mogućih mikrostanja sistema."
+  },
+  {
+    "question": "Koja sila omogućava elektronima da kruže oko jezgra?",
+    "answers": ["Gravitaciona", "Jaka nuklearna sila", "Slaba sila", "Elektromagnetna sila"],
+    "correct": 3,
+    "explanation": "Privlačna sila između pozitivnog jezgra i negativnih elektrona je elektromagnetna."
+  },
+  {
+    "question": "Koja jedinica predstavlja merenje električnog otpora?",
+    "answers": ["Volt", "Amper", "Ohm", "Tesla"],
+    "correct": 2,
+    "explanation": "Jedinica električnog otpora je om (Ω)."
+  },
+  {
+    "question": "Koja molekula je nosilac genetičke informacije?",
+    "answers": ["RNA", "Protein", "DNA", "Lipid"],
+    "correct": 2,
+    "explanation": "Genetička informacija kod većine organizama se čuva u DNA molekulu."
+  },
+  {
+    "question": "Koja tehnologija se koristi za obuku modernih modela za veštačku inteligenciju?",
+    "answers": ["Snaga turbina", "Nervne mreže", "Ultrazvučni algoritmi", "Fotohemijski modeli"],
+    "correct": 1,
+    "explanation": "Moderni AI modeli koriste duboke neuronske mreže."
+  },
+  {
+    "question": "Šta Keplerov drugi zakon opisuje?",
+    "answers": ["Brzinu rotacije planeta", "Period obilaženja zvezde", "Jednake površine u jednakim vremenskim intervalima", "Ulog gravitacije na mesece"],
+    "correct": 2,
+    "explanation": "Planeta opisuje jednake površine za jednaka vremena."
+  },
+  {
+    "question": "Koja komponenta je srce računara i obavlja računanja?",
+    "answers": ["GPU", "CPU", "RAM", "SSD"],
+    "correct": 1,
+    "explanation": "CPU (Central Processing Unit) izvršava instrukcije i obavlja računanje."
+  },
+  {
+    "question": "Koja je osnovna razlika između fuzije i fisije?",
+    "answers": ["Fuzija razdvaja jezgra, fisija ih spaja", "Fuzija spaja jezgra, fisija ih razdvaja", "Obe su istog procesa", "Nijedna se ne oslobađa energije"],
+    "correct": 1,
+    "explanation": "Fuzija spaja laka jezgra; fisija razdvaja teška jezgra."
+  },
+  {
+    "question": "Koji je najrasprostranjeniji gas u Zemljinoj atmosferi?",
+    "answers": ["Kiseonik", "Azot", "Ugljen-dioksid", "Argon"],
+    "correct": 1,
+    "explanation": "Azot čini oko 78% atmosfere."
+  },
+
+  {
+    "question": "Šta određuje boju zvezde?",
+    "answers": ["Njena veličina", "Temperatura", "Hemijski sastav", "Udaljenost od Zemlje"],
+    "correct": 1,
+    "explanation": "Temperatura zvezde određuje spektar i boju svetlosti."
+  },
+  {
+    "question": "Koji tip veze deli elektrone između atoma?",
+    "answers": ["Jonska veza", "Kovalentna veza", "Metalna veza", "Van der Vals veza"],
+    "correct": 1,
+    "explanation": "Kovalentna veza predstavlja deljenje elektronskih parova."
+  },
+  {
+    "question": "Šta označava pojam 'kvantizacija' u fizici?",
+    "answers": ["Kontinuiran prenos energije", "Da energija postoji u diskretnim paketima", "Prenos toplotne energije", "Širenje zvučnih talasa"],
+    "correct": 1,
+    "explanation": "U kvantnoj fizici energija se prenosi u diskretnim kvantima."
+  },
+  {
+    "question": "Koja tehnologija se koristi za veoma precizno uređivanje gena?",
+    "answers": ["PCR", "CRISPR", "RT-qPCR", "SDS-PAGE"],
+    "correct": 1,
+    "explanation": "CRISPR-Cas9 omogućava ciljano sečenje DNA i promenu gena."
+  },
+  {
+    "question": "Koja jedinica meri frekvenciju?",
+    "answers": ["Herc", "Djul", "Vat", "Paskal"],
+    "correct": 0,
+    "explanation": "Herc (Hz) označava broj ciklusa u sekundi."
+  },
+  {
+    "question": "Zašto ne možemo videti infracrvenu svetlost?",
+    "answers": ["Previše je jaka", "Naša mrežnjača je ne registruje", "Ona ne prolazi kroz vazduh", "Svetlost se prelama pre oka"],
+    "correct": 1,
+    "explanation": "Ljudsko oko registruje samo vidljivi spektar (~400–700 nm)."
+  },
+  {
+    "question": "Koji je najbrži superkompjuter na svetu 2024?",
+    "answers": ["Summit", "Frontier", "Fugaku", "Lumi"],
+    "correct": 1,
+    "explanation": "Frontier (SAD) ostaje najbrži superkompjuter prema TOP500 listi."
+  },
+  {
+    "question": "Šta je eksoplaneta?",
+    "answers": ["Planeta u našem sistemu", "Planetarna maglina", "Planeta izvan Sunčevog sistema", "Mala planeta sa slabom gravitacijom"],
+    "correct": 2,
+    "explanation": "Eksoplanete kruže oko drugih zvezda."
+  },
+  {
+    "question": "Koji element je neophodan za formiranje hemoglobina?",
+    "answers": ["Kalcijum", "Gvožđe", "Cink", "Selen"],
+    "correct": 1,
+    "explanation": "Gvožđe omogućava vezivanje kiseonika u krvi."
+  },
+  {
+    "question": "Koja naučna oblast proučava interakcije između materije i energije?",
+    "answers": ["Biologija", "Fizika", "Hemija", "Geologija"],
+    "correct": 1,
+    "explanation": "Fizika se bavi osnovnim zakonima prirode i energijom."
+  },
+
+  {
+    "question": "Šta omogućava optičkim vlaknima da prenose svetlosni signal?",
+    "answers": ["Refleksija", "Totalna unutrašnja refleksija", "Magnetna rezonanca", "Difrakcija"],
+    "correct": 1,
+    "explanation": "Svetlost se odbija unutar vlakna bez gubitka."
+  },
+  {
+    "question": "Koja čestica prenosi elektromagnetnu silu?",
+    "answers": ["Gluon", "Foton", "W bozon", "Higgsov bozon"],
+    "correct": 1,
+    "explanation": "Foton je prenosilac elektromagnetne sile."
+  },
+  {
+    "question": "Koji virus je odgovoran za AIDS?",
+    "answers": ["H1N1", "HIV", "HSV-2", "HPV"],
+    "correct": 1,
+    "explanation": "HIV napada CD4 limfocite i oslabljuje imunitet."
+  },
+  {
+    "question": "Koja tehnologija se koristi u GPS uređajima?",
+    "answers": ["Radio-talasna triangulacija", "Zvukovna navigacija", "Lidar", "Gamma triangulacija"],
+    "correct": 0,
+    "explanation": "GPS koristi radio signale sa satelita i triangulaciju."
+  },
+  {
+    "question": "Koja jedinica meri energiju?",
+    "answers": ["Newton", "Kelvin", "Djul", "Volt"],
+    "correct": 2,
+    "explanation": "Jedinica za energiju u SI sistemu je džul (J)."
+  },
+  {
+    "question": "Koja sila drži protonu u jezgru zajedno uprkos odbojanju?",
+    "answers": ["Slaba sila", "Gravitacija", "Jaka nuklearna sila", "Polarna sila"],
+    "correct": 2,
+    "explanation": "Jaka sila drži nukleone povezane."
+  },
+  {
+    "question": "Koja nauka proučava vrlo niske temperature?",
+    "answers": ["Termodinamika", "Kriofizika", "Optika", "Spektroskopija"],
+    "correct": 1,
+    "explanation": "Kriofizika se bavi ekstremno niskim temperaturama i superprovodljivošću."
+  },
+  {
+    "question": "Koji gas najviše doprinosi efektu staklene bašte?",
+    "answers": ["Azot", "Kiseonik", "CO₂", "Metan"],
+    "correct": 2,
+    "explanation": "CO₂ ima najveći ukupni doprinos zbog velikog prisustva."
+  },
+  {
+    "question": "Šta predstavlja pH vrednost?",
+    "answers": ["Kiselost ili baznost", "Električnu provodljivost", "Nivo kiseonika", "Stepen oksidacije"],
+    "correct": 0,
+    "explanation": "pH meri koncentraciju H⁺ jona u rastvoru."
+  },
+
+  {
+    "question": "Ko je formulisao zakon gravitacije?",
+    "answers": ["Albert Ajnštajn", "Njutn", "Planck", "Bohr"],
+    "correct": 1,
+    "explanation": "Njutn je formulisao univerzalni zakon gravitacije."
+  },
+  {
+    "question": "Šta predstavlja pojam 'bit' u računarskoj nauci?",
+    "answers": ["Jednu komandu", "Jedinicu podataka 0 ili 1", "Tip procesora", "Rezoluciju slike"],
+    "correct": 1,
+    "explanation": "Bit je najmanja jedinica digitalne informacije."
+  },
+  {
+    "question": "Koja jedinica meri snagu?",
+    "answers": ["Vat", "Herc", "Kelvin", "Njutan"],
+    "correct": 0,
+    "explanation": "Vat (W) je džul u sekundi."
+  },
+  {
+    "question": "Koja komponenta omogućava grafičku obradu u modernim računarima?",
+    "answers": ["CPU", "GPU", "BIOS", "UPS"],
+    "correct": 1,
+    "explanation": "GPU je optimizovan za paralelne grafičke operacije."
+  },
+  {
+    "question": "Koji naučnik je formulisao teoriju relativiteta?",
+    "answers": ["Njutn", "Tesla", "Ajnštajn", "Faradej"],
+    "correct": 2,
+    "explanation": "Ajnštajn je formulisao specijalnu i opštu teoriju relativiteta."
+  },
+  {
+    "question": "Šta označava oznaka 'AI inference'?",
+    "answers": ["Trening modela", "Pokretanje naučnih simulacija", "Izvođenje modela i donošenje odluka", "Optimizaciju GPU memorije"],
+    "correct": 2,
+    "explanation": "Inferencija označava korišćenje već istreniranog modela."
+  },
+  {
+    "question": "Koji element najviše čini Sunce?",
+    "answers": ["Helijum", "Ugljenik", "Hidrogen", "Kiseonik"],
+    "correct": 2,
+    "explanation": "Oko 73% Sunčevog sastava je hidrogen."
+  },
+  {
+    "question": "Koja pojava objašnjava zašto se svetlost savija oko prepreka?",
+    "answers": ["Difrakcija", "Refleksija", "Apsorpcija", "Prelamanje"],
+    "correct": 0,
+    "explanation": "Difrakcija je savijanje talasa oko prepreka."
+  },
+
+  {
+    "question": "Kako naziva proces kojim ćelija stvara energiju iz glukoze?",
+    "answers": ["Fotosinteza", "Glikoliza", "Fermentacija", "Transkripcija"],
+    "correct": 1,
+    "explanation": "Glikoliza je prvi korak razlaganja glukoze radi stvaranja energije."
+  },
+  {
+    "question": "Koja jedinica meri pritisak?",
+    "answers": ["Njutan", "Paskal", "Vat", "Kelvin"],
+    "correct": 1,
+    "explanation": "Paskal (Pa) je osnovna jedinica pritiska."
+  },
+  {
+    "question": "Koji instrument meri jačinu zemljotresa?",
+    "answers": ["Barometar", "Seizmograf", "Spektrometar", "Denzimetar"],
+    "correct": 1,
+    "explanation": "Seizmograf registruje talase zemljotresa."
+  },
+  {
+    "question": "Koja tehnologija koristi lasersko skeniranje i mapiranje prostora?",
+    "answers": ["Wi-Fi", "RTK", "Lidar", "RFID"],
+    "correct": 2,
+    "explanation": "Lidar se koristi u autonomnim vozilima i kartografiji."
+  },
+  {
+    "question": "Šta je superprovodljivost?",
+    "answers": ["Nulatačno kretanje elektrona", "Nestanak električnog otpora", "Prelaz metala u plazmu", "Prekid u magnetnom polju"],
+    "correct": 1,
+    "explanation": "Superprovodnici imaju otpor 0 na ekstremno niskim temperaturama."
+  },
+  {
+    "question": "Ko proizvodi insulin u ljudskom telu?",
+    "answers": ["Jetra", "Pankreas", "Bubrezi", "Hipofiza"],
+    "answers": ["Jetra", "Pankreas", "Bubrezi", "Hipofiza"],
+    "correct": 1,
+    "explanation": "Insulin proizvode beta-ćelije pankreasa."
+  },
+  {
+    "question": "Koja naučna disciplina proučava strukturu atoma?",
+    "answers": ["Astrofizika", "Kvantna mehanika", "Genetika", "Biotehnologija"],
+    "correct": 1,
+    "explanation": "Kvantna mehanika opisuje strukturu i ponašanje atoma i čestica."
+  }
+]

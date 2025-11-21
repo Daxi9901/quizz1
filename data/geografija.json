@@ -1,0 +1,291 @@
+[
+  {
+    "question": "Koja zemlja ima najveću površinu na svetu?",
+    "answers": ["Kanada", "Sjedinjene Države", "Rusija", "Kina"],
+    "correct": 2,
+    "explanation": "Rusija je najveća zemlja po površini, sa preko 17 miliona km²."
+  },
+  {
+    "question": "Glavni grad Australije je:",
+    "answers": ["Sidnej", "Melburn", "Kanbera", "Perth"],
+    "correct": 2,
+    "explanation": "Sidnej i Melburn su najveći gradovi, ali glavni grad je Kanbera."
+  },
+  {
+    "question": "Koja reka je najduža na svetu?",
+    "answers": ["Nil", "Amazon", "Jangce", "Mekong"],
+    "correct": 1,
+    "explanation": "Amazon se danas smatra najdužom i najvećom rekom po protoku."
+  },
+  {
+    "question": "Koja država ima najviše stanovnika?",
+    "answers": ["Indija", "Kina", "SAD", "Indonezija"],
+    "correct": 0,
+    "explanation": "Od 2023. Indija ima najviše stanovnika na svetu."
+  },
+  {
+    "question": "Glavni grad Brazila je:",
+    "answers": ["Rio de Žaneiro", "São Paulo", "Brazilija", "Salvador"],
+    "correct": 2,
+    "explanation": "Brazilija je izgrađena kao planirani glavni grad 1960."
+  },
+  {
+    "question": "Koja država je ostrvska?",
+    "answers": ["Norveška", "Japan", "Turska", "Peru"],
+    "correct": 1,
+    "explanation": "Japan je arhipelag od preko 6000 ostrva."
+  },
+  {
+    "question": "Koji kontinent ima najviše država?",
+    "answers": ["Azija", "Afrika", "Evropa", "Severna Amerika"],
+    "correct": 1,
+    "explanation": "Afrika ima 54 međunarodno priznate države – najviše na svetu."
+  },
+  {
+    "question": "Koji okean je najveći?",
+    "answers": ["Atlantski", "Indijski", "Tihi", "Arktički"],
+    "correct": 2,
+    "explanation": "Tihi okean pokriva oko 46% svetskih okeanskih površina."
+  },
+  {
+    "question": "Koja država deli najdužu kopnenu granicu sa SAD?",
+    "answers": ["Meksiko", "Kanada", "Rusija", "Brazil"],
+    "correct": 1,
+    "explanation": "Granica SAD–Kanada je najduža međunarodna granica."
+  },
+  {
+    "question": "Koja pustinja je najveća na svetu?",
+    "answers": ["Gobi", "Arabska", "Sahara", "Antarktik"],
+    "correct": 3,
+    "explanation": "Najveća pustinja je Antarktik (leden desert). Sahara je najveća topla pustinja."
+  },
+  {
+    "question": "Glavni grad Egipta je:",
+    "answers": ["Aleksandrija", "Giza", "Kairo", "Luksor"],
+    "correct": 2,
+    "explanation": "Kairo je najveći grad u Arapskom svetu."
+  },
+  {
+    "question": "Koja planina je najviša na svetu?",
+    "answers": ["Aconcagua", "K2", "Everest", "Denali"],
+    "correct": 2,
+    "explanation": "Everest je najviši vrh sa 8848 m."
+  },
+  {
+    "question": "Koja zemlja ima najviše jezera?",
+    "answers": ["Kanada", "Finska", "Rusija", "SAD"],
+    "correct": 0,
+    "explanation": "Kanada ima preko 3 miliona jezera."
+  },
+  {
+    "question": "Glavni grad Argentine je:",
+    "answers": ["Kordoba", "Rosario", "Buenos Ajres", "Mendoza"],
+    "correct": 2,
+    "explanation": "Buenos Ajres je najveći grad Argentine."
+  },
+  {
+    "question": "Koja evropska država ima najveću populaciju?",
+    "answers": ["Francuska", "Nemačka", "Ujedinjeno Kraljevstvo", "Turska"],
+    "correct": 1,
+    "explanation": "Nemačka ima oko 84 miliona stanovnika."
+  },
+  {
+    "question": "Najveće more na svetu je:",
+    "answers": ["Sredozemno", "Karipsko", "Ohotsko", "Beringovo"],
+    "correct": 0,
+    "explanation": "Sredozemno more je najveće zatvoreno more na svetu."
+  },
+  {
+    "question": "Glavni grad Nigerije je:",
+    "answers": ["Lagos", "Kan", "Port Harcourt", "Abuja"],
+    "correct": 3,
+    "explanation": "Iako je Lagos najveći grad, glavni grad je Abuja."
+  },
+  {
+    "question": "Koja zemlja je potpuno okružena jednom drugom državom?",
+    "answers": ["Lesoto", "Vatikan", "San Marino", "Luksemburg"],
+    "correct": 0,
+    "explanation": "Lesoto je kompletno okružen Južnom Afrikom."
+  },
+  {
+    "question": "Najduža planina u Evropi je:",
+    "answers": ["Alpi", "Karpati", "Ural", "Skandinavske planine"],
+    "correct": 2,
+    "explanation": "Ural se proteže preko 2500 km."
+  },
+  {
+    "question": "Glavni grad Irana je:",
+    "answers": ["Širaz", "Isfahan", "Teheran", "Tabriz"],
+    "correct": 2,
+    "explanation": "Teheran je politički i ekonomski centar Irana."
+  },
+
+  {
+    "question": "Najveće jezero na svetu po površini je:",
+    "answers": ["Kaspijsko more", "Bajkal", "Michigan-Huron", "Viktorijino"],
+    "correct": 0,
+    "explanation": "Kaspijsko more je tehnički najveće jezero na svetu."
+  },
+  {
+    "question": "Glavni grad Švedske je:",
+    "answers": ["Kopenhagen", "Oslo", "Stokholm", "Helsinki"],
+    "correct": 2,
+    "explanation": "Stokholm je glavni i najveći grad Švedske."
+  },
+  {
+    "question": "Koja država je najmnogoljudnija u Evropi?",
+    "answers": ["Francuska", "Ukrajina", "Nemačka", "Italija"],
+    "correct": 2,
+    "explanation": "Nemačka ima najveću populaciju u Evropi."
+  },
+  {
+    "question": "Koja je najduža reka u Evropi?",
+    "answers": ["Dunav", "Volga", "Rajna", "Loara"],
+    "correct": 1,
+    "explanation": "Volga je najduža evropska reka sa 3530 km."
+  },
+  {
+    "question": "Glavni grad Kazahstana je:",
+    "answers": ["Astana", "Almati", "Šimkent", "Atirau"],
+    "correct": 0,
+    "explanation": "Astana (Nursultan) je ponovo vratila naziv Astana."
+  },
+  {
+    "question": "Država sa najviše piramida je:",
+    "answers": ["Egipat", "Sudan", "Meksiko", "Peru"],
+    "correct": 1,
+    "explanation": "Sudan ima više piramida nego Egipat."
+  },
+  {
+    "question": "Najveći poluostrvo na svetu je:",
+    "answers": ["Iberijsko", "Arapsko", "Skandinavsko", "Indokina"],
+    "correct": 1,
+    "explanation": "Arapsko poluostrvo je najveće sa 3.2 miliona km²."
+  },
+  {
+    "question": "Glavni grad Mongolije je:",
+    "answers": ["Astana", "Ulan Bator", "Biškek", "Hohhot"],
+    "correct": 1,
+    "explanation": "Ulan Bator je glavni grad Mongolije."
+  },
+  {
+    "question": "Koja zemlja ima najviše suseda?",
+    "answers": ["Kina", "Rusija", "Brazil", "Nemačka"],
+    "correct": 0,
+    "explanation": "Kina ima 14 kopnenih suseda."
+  },
+  {
+    "question": "Najviše stanovnika u Južnoj Americi ima:",
+    "answers": ["Argentina", "Kolumbija", "Brazil", "Čile"],
+    "correct": 2,
+    "explanation": "Brazil ima oko 214 miliona stanovnika."
+  },
+  {
+    "question": "Glavni grad Etiopije je:",
+    "answers": ["Gondar", "Adis Abeba", "Džima", "Harar"],
+    "correct": 1,
+    "explanation": "Adis Abeba je i politički centar Afričke unije."
+  },
+  {
+    "question": "Najveće ostrvo na svetu je:",
+    "answers": ["Madagaskar", "Grenland", "Borneo", "Sumatra"],
+    "correct": 1,
+    "explanation": "Grenland je najveće ostrvo koje nije kontinent."
+  },
+  {
+    "question": "Koja zemlja ima najveći BDP na svetu?",
+    "answers": ["Kina", "Nemačka", "Japan", "SAD"],
+    "correct": 3,
+    "explanation": "SAD imaju najveći BDP na svetu."
+  },
+  {
+    "question": "Koja zemlja je poznata kao ’Zemlja izlazećeg sunca’?",
+    "answers": ["Japan", "Kina", "Tajvan", "Južna Koreja"],
+    "correct": 0,
+    "explanation": "Japan se naziva ’Nippon’, što znači ’poreklo sunca’."
+  },
+  {
+    "question": "Glavni grad Kanade je:",
+    "answers": ["Toronto", "Vankuver", "Montreal", "Otava"],
+    "correct": 3,
+    "explanation": "Iako Toronto ima najviše stanovnika, glavni grad je Otava."
+  },
+  {
+    "question": "Najveće slano jezero na svetu je:",
+    "answers": ["Mrtvo more", "Veliko slano jezero", "Aralsko more", "Kaspijsko more"],
+    "correct": 3,
+    "explanation": "Kaspijsko more je najveće slano jezero na svetu."
+  },
+  {
+    "question": "Najveća afrička zemlja po površini je:",
+    "answers": ["Alžir", "Sudan", "DR Kongo", "Libija"],
+    "correct": 0,
+    "explanation": "Alžir je najveća afrička država po površini."
+  },
+  {
+    "question": "Glavni grad Ukrajine je:",
+    "answers": ["Kijev", "Harkov", "Odesa", "Lavov"],
+    "correct": 0,
+    "explanation": "Kijev je glavni i najveći grad Ukrajine."
+  },
+  {
+    "question": "Koja zemlja ima najveću prosečnu nadmorsku visinu?",
+    "answers": ["Nepal", "Butan", "Tajland", "Bolivija"],
+    "correct": 3,
+    "explanation": "Bolivija ima prosečnu nadmorsku visinu oko 3300 m."
+  },
+  {
+    "question": "Glavni grad Pakistana je:",
+    "answers": ["Lahor", "Karaci", "Islamabad", "Peshavar"],
+    "correct": 2,
+    "explanation": "Islamabad je politički centar, iako je Karaci najveći grad."
+  },
+  {
+    "question": "Najhladniji kontinent na svetu je:",
+    "answers": ["Azija", "Evropa", "Antarktik", "Severna Amerika"],
+    "correct": 2,
+    "explanation": "Antarktik je najhladnije mesto na planeti."
+  },
+  {
+    "question": "Koja zemlja ima najveći broj vulkana?",
+    "answers": ["Indonezija", "Japan", "Čile", "Island"],
+    "correct": 0,
+    "explanation": "Indonezija se nalazi na pacifičkom vatrenom prstenu."
+  },
+  {
+    "question": "Glavni grad Kenije je:",
+    "answers": ["Mombasa", "Nairobi", "Kisumu", "Garisa"],
+    "correct": 1,
+    "explanation": "Nairobi je najveći i najrazvijeniji grad Kenije."
+  },
+  {
+    "question": "Koja država je najveći proizvođač nafte?",
+    "answers": ["SAD", "Rusija", "Saudijska Arabija", "Iran"],
+    "correct": 0,
+    "explanation": "SAD su trenutno najveći svetski proizvođač nafte."
+  },
+  {
+    "question": "Najveće ostrvo u Mediteranu je:",
+    "answers": ["Sicilija", "Kipar", "Sardinija", "Kreta"],
+    "correct": 0,
+    "explanation": "Sicilija je najveće ostrvo Sredozemnog mora."
+  },
+  {
+    "question": "Glavni grad Norveške je:",
+    "answers": ["Stockholm", "Kopenhagen", "Oslo", "Bergen"],
+    "correct": 2,
+    "explanation": "Oslo je glavni grad Norveške."
+  },
+  {
+    "question": "Najveća zemlja u Južnoj Aziji je:",
+    "answers": ["Pakistan", "Indija", "Bangladeš", "Nepal"],
+    "correct": 1,
+    "explanation": "Indija je najveća zemlja u regionu južne Azije."
+  },
+  {
+    "question": "Najudaljenija tačka Zemlje od njenog centra je:",
+    "answers": ["Mont Everest", "Čimboraso", "K2", "Denali"],
+    "correct": 1,
+    "explanation": "Zbog izbočenosti ekvatora, vrh Čimboraso je najudaljenija tačka od centra Zemlje."
+  }
+]

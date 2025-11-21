@@ -1,0 +1,263 @@
+[
+  {
+    "question": "Koja reč najbolje opisuje ideju koja nastane iznenada?",
+    "answers": ["Inspiracija", "Organizacija", "Imitacija", "Analiza"],
+    "correct": 0,
+    "explanation": "Inspiracija označava naglu pojavu stvaralačke ideje."
+  },
+  {
+    "question": "Šta najpre povezuješ sa rečju 'harmonija'?",
+    "answers": ["Ritam", "Sklad", "Ponavljanje", "Udaljenost"],
+    "correct": 1,
+    "explanation": "Harmonija se u kreativnim disciplinama koristi kao sinonim za sklad."
+  },
+  {
+    "question": "Koji bi oblik najviše simbolizovao stabilnost?",
+    "answers": ["Trougao", "Krug", "Kvadrat", "Spirala"],
+    "correct": 2,
+    "explanation": "Kvadrat je često simbol stabilnosti i ravnoteže."
+  },
+  {
+    "question": "Koji element najviše utiče na emociju u vizuelnoj umetnosti?",
+    "answers": ["Boja", "Oblik", "Tekstura", "Perspektiva"],
+    "correct": 0,
+    "explanation": "Boja najjače utiče na emocionalni doživljaj posmatrača."
+  },
+  {
+    "question": "Koji koncept najbolje opisuje pronalaženje jedinstvene ideje spajanjem dve nepovezane stvari?",
+    "answers": ["Asocijacija", "Kontrast", "Fuzija", "Divergencija"],
+    "correct": 2,
+    "explanation": "Fuzija je kreativno spajanje naizgled nepovezanih elemenata."
+  },
+  {
+    "question": "Koja vrsta razmišljanja podrazumeva višestruke mogućnosti rešenja?",
+    "answers": ["Konvergentno", "Divergentno", "Analitičko", "Sekvencijalno"],
+    "correct": 1,
+    "explanation": "Divergentno razmišljanje generiše veliki broj potencijalnih ideja."
+  },
+  {
+    "question": "Koji zvuk najčešće simbolizuje početak ili novi početak?",
+    "answers": ["Udarac bubnja", "Tišina", "Zvono", "Šapat"],
+    "correct": 2,
+    "explanation": "Zvono se često koristi kao simbol početka – škole, događaja, nove faze."
+  },
+  {
+    "question": "Koja boja se najčešće vezuje za kreativnost?",
+    "answers": ["Plava", "Crvena", "Žuta", "Ljubićasta"],
+    "correct": 3,
+    "explanation": "Ljubićasta simbolizuje maštu, kreativnost i apstraktno razmišljanje."
+  },
+  {
+    "question": "Koji motiv najčešće simbolizuje slobodu?",
+    "answers": ["Planina", "More", "Ptica", "Drvo"],
+    "correct": 2,
+    "explanation": "Ptica u letu u mnogim kulturama predstavlja slobodu."
+  },
+  {
+    "question": "Koji koncept najbolje opisuje 'stvaranje nečega iz ničega'?",
+    "answers": ["Konstrukcija", "Spontanost", "Ekspresija", "Inovacija"],
+    "correct": 3,
+    "explanation": "Inovacija je stvaranje nečega potpuno novog."
+  },
+
+  {
+    "question": "Koja životinja bi najbolje simbolizovala mudrost?",
+    "answers": ["Lav", "Sova", "Konj", "Lisica"],
+    "correct": 1,
+    "explanation": "Sova je univerzalni simbol mudrosti kroz istoriju."
+  },
+  {
+    "question": "Koji metaforički element simbolizuje 'unutrašnju snagu'?",
+    "answers": ["Vulkan", "Kamen", "Reka", "Vetrovito polje"],
+    "correct": 1,
+    "explanation": "Kamen predstavlja čvrstinu, odlučnost i unutrašnju snagu."
+  },
+  {
+    "question": "Koji slog bi najbolje opisao brzinu?",
+    "answers": ["Ššš", "Bum", "Taaak", "Fjuuu"],
+    "correct": 3,
+    "explanation": "'Fjuuu' se onomatopejski povezuje sa brzim kretanjem."
+  },
+  {
+    "question": "Koji koncept najviše podstiče kreativnost?",
+    "answers": ["Pritisak", "Zanemarena rutina", "Radoznalost", "Strah"],
+    "correct": 2,
+    "explanation": "Radoznalost je pokretač istraživanja i novih ideja."
+  },
+  {
+    "question": "Koji lik najviše simbolizuje putovanje?",
+    "answers": ["Most", "Krug", "Linija", "Spirala"],
+    "correct": 3,
+    "explanation": "Spirala predstavlja napredak kroz etape i povratke."
+  },
+  {
+    "question": "Koja radnja najviše pospešuje originalno razmišljanje?",
+    "answers": ["Pisanje liste zadataka", "Posmatranje prirode", "Slušanje podataka", "Pamćenje činjenica"],
+    "correct": 1,
+    "explanation": "Priroda stimuliše maštovitost i stvaranje novih ideja."
+  },
+  {
+    "question": "Koja boja najviše naglašava energiju i pokret?",
+    "answers": ["Plava", "Narandžasta", "Crna", "Siva"],
+    "correct": 1,
+    "explanation": "Narandžasta simbolizuje energiju, kreativnost i živost."
+  },
+  {
+    "question": "Koji izum najviše simbolizuje 'iskru ideje'?",
+    "answers": ["Električna sijalica", "Točak", "Telefon", "Kompas"],
+    "correct": 0,
+    "explanation": "Sijalica se metaforički koristi za prikaz nove ideje."
+  },
+  {
+    "question": "Koji muzički instrument najbolje simbolizuje eleganciju?",
+    "answers": ["Gitara", "Bubanj", "Violina", "Truba"],
+    "correct": 2,
+    "explanation": "Zvuk violine nosi simboliku elegancije i profinjenosti."
+  },
+  {
+    "question": "Koji koncept opisuje „svet posmatran iz potpuno drugačijeg ugla“?",
+    "answers": ["Transformacija", "Iluzija", "Perspektiva", "Asimetrija"],
+    "correct": 2,
+    "explanation": "Perspektiva znači menjanje ugla posmatranja da bi se otkrila nova značenja."
+  },
+
+  {
+    "question": "Koja reč se najviše povezuje sa stvaranjem priče?",
+    "answers": ["Narativ", "Šablon", "Struktura", "Podsetnik"],
+    "correct": 0,
+    "explanation": "Narativ je organizovano pričanje priče."
+  },
+  {
+    "question": "Koja umetnička tehnika simbolizuje spontanost?",
+    "answers": ["Akvarel", "Ugljen", "Skica tušem", "Digitalno bojanje"],
+    "correct": 2,
+    "explanation": "Brze skice tušem najviše povezuju spontanost i pokret."
+  },
+  {
+    "question": "Koji simbol najčešće označava beskonačnost?",
+    "answers": ["Krug", "Spirala", "Osmica položena horizontalno", "Dve paralelne linije"],
+    "correct": 2,
+    "explanation": "∞ je univerzalni simbol beskonačnosti."
+  },
+  {
+    "question": "Koji element najviše simbolizuje vreme?",
+    "answers": ["Klatno", "Stub", "Krov", "Most"],
+    "correct": 0,
+    "explanation": "Klatno se tradicionalno koristi kao simbol protoka vremena."
+  },
+  {
+    "question": "Šta najčešće označava metafora 'kljucanje ideje'?",
+    "answers": ["Greška u razmišljanju", "Nepotpuno razumevanje", "Ideja u nastajanju", "Kritiku"],
+    "correct": 2,
+    "explanation": "„Kljucanje ideje“ opisuje proces rađanja koncepta."
+  },
+  {
+    "question": "Koji element simbolizuje haos u umetnosti?",
+    "answers": ["Simetrija", "Lomljene linije", "Neutralne boje", "Minimalizam"],
+    "correct": 1,
+    "explanation": "Nepravilne, lomljene linije često simbolizuju haotičnost."
+  },
+  {
+    "question": "Koja životinja simbolizuje kreativnu lukavost?",
+    "answers": ["Vuk", "Konj", "Lisica", "Sova"],
+    "correct": 2,
+    "explanation": "Lisica se vezuje za dovitljivost i snalažljivost."
+  },
+  {
+    "question": "Koji simbol najbolje predstavlja mir?",
+    "answers": ["Golub", "Krug", "Plamen", "Zvezda"],
+    "correct": 0,
+    "explanation": "Golub je univerzalni simbol mira."
+  },
+  {
+    "question": "Koji predmet najviše simbolizuje kreativno pisanje?",
+    "answers": ["Lenjir", "Olovka", "Šestar", "Kalkulator"],
+    "correct": 1,
+    "explanation": "Olovka predstavlja početak stvaranja sadržaja."
+  },
+  {
+    "question": "Koja radnja najčešće pokreće kreativni proces?",
+    "answers": ["Analiza podataka", "Šetnja", "Ponovno čitanje pravila", "Pauza"],
+    "correct": 1,
+    "explanation": "Šetnja stimuliše mozak i dokazano povećava kreativnost."
+  },
+
+  {
+    "question": "Koji objekat simbolizuje inspiraciju koja se gasi?",
+    "answers": ["Sijalica koja se gasi", "Otvorena knjiga", "Sat", "Brava"],
+    "correct": 0,
+    "explanation": "Metaforički, sijalica koja se gasi označava nestanak ideje."
+  },
+  {
+    "question": "Koji vizuelni element najjasnije simbolizuje napredak?",
+    "answers": ["Krug", "Strelica", "Kvadrat", "Cik-cak linija"],
+    "correct": 1,
+    "explanation": "Strelica predstavlja kretanje napred ili rast."
+  },
+  {
+    "question": "Koji koncept najviše podstiče inovaciju?",
+    "answers": ["Rizik", "Strah", "Dosada", "Kritika"],
+    "correct": 0,
+    "explanation": "Inovatori često moraju da rizikuju kako bi stvorili nešto novo."
+  },
+  {
+    "question": "Koji je najbolji simbol za 'ideju koja raste'?",
+    "answers": ["Semе", "Planina", "Most", "Zvezda"],
+    "correct": 0,
+    "explanation": "Semе simbolizuje razvoj i rast."
+  },
+  {
+    "question": "Koja boja najjače označava smirenost?",
+    "answers": ["Crvena", "Plava", "Žuta", "Crna"],
+    "correct": 1,
+    "explanation": "Plava se u psihologiji boja najviše povezuje sa smirenjem."
+  },
+  {
+    "question": "Koji simbol najčešće predstavlja tajnu?",
+    "answers": ["Kutija", "Zaključana brava", "Ptica", "Perla"],
+    "correct": 1,
+    "explanation": "Brava označava nešto što je skriveno ili zaštićeno."
+  },
+  {
+    "question": "Koji predmet najviše simbolizuje izbor?",
+    "answers": ["Kaciga", "Raskrsnica", "Sto", "Reka"],
+    "correct": 1,
+    "explanation": "Raskrsnica simbolizuje donošenje odluku."
+  },
+  {
+    "question": "Koji element najbolje simbolizuje promenu?",
+    "answers": ["List koji opada", "Sneg", "Ugalj", "Planinski vrh"],
+    "correct": 0,
+    "explanation": "List koji opada označava ciklus promene."
+  },
+  {
+    "question": "Koji zvuk najviše simbolizuje početak ideje?",
+    "answers": ["Klik", "Šum", "Bum", "Eho"],
+    "correct": 0,
+    "explanation": "Klik je metafora trenutka otkrivanja rešenja."
+  },
+  {
+    "question": "Koji predmet simbolizuje 'skrivenu kreativnost'?",
+    "answers": ["Zatvorena knjiga", "Peščani sat", "Stari ključ", "Skrivena fioka"],
+    "correct": 3,
+    "explanation": "Skrivena fioka simbolizuje neotkrivene talente i ideje."
+  },
+  {
+    "question": "Koji simbol predstavlja neograničene mogućnosti?",
+    "answers": ["Horizont", "Oluja", "Rešetka", "Most"],
+    "correct": 0,
+    "explanation": "Horizont se tradicionalno koristi kao metafora beskrajnih mogućnosti."
+  },
+  {
+    "question": "Koji oblik najviše simbolizuje stalno kretanje?",
+    "answers": ["Kvadrat", "Krug", "Trougao", "Zvezda"],
+    "correct": 1,
+    "explanation": "Krug predstavlja neprekidno kretanje i tok."
+  },
+  {
+    "question": "Koji aspekt najviše utiče na originalnost?",
+    "answers": ["Eksperimentisanje", "Pamćenje", "Prepisivanje", "Rutina"],
+    "correct": 0,
+    "explanation": "Eksperimentisanje je ključno za razvoj novih ideja."
+  }
+]

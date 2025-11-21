@@ -1,0 +1,284 @@
+[
+  {
+    "question": "U kom veku je nastalo Rimsko carstvo?",
+    "answers": ["1. vek p.n.e.", "3. vek p.n.e.", "1. vek n.e.", "5. vek n.e."],
+    "correct": 0,
+    "explanation": "Rimsko carstvo formalno nastaje 27. godine p.n.e. kada Oktavijan postaje Avgust."
+  },
+  {
+    "question": "Ko je bio prvi rimski car?",
+    "answers": ["Cezar", "Trajan", "Avgust Oktavijan", "Tiberije"],
+    "correct": 2,
+    "explanation": "Oktavijan dobija titulu Avgust i postaje prvi car 27. p.n.e."
+  },
+  {
+    "question": "Koja država je započela Prvi svetski rat objavom rata Srbiji?",
+    "answers": ["Nemačka", "Austrougarska", "Rusija", "Italija"],
+    "correct": 1,
+    "explanation": "Austrougarska 28. jula 1914. objavljuje rat Srbiji."
+  },
+  {
+    "question": "U kom gradu je počela Francuska revolucija 1789?",
+    "answers": ["Lion", "Marsej", "Pariz", "Strazbur"],
+    "correct": 2,
+    "explanation": "U Parizu pad Bastilje 14. jula označava početak revolucije."
+  },
+  {
+    "question": "Ko je bio vođa Mongolskog carstva?",
+    "answers": ["Kublaj-kan", "Džingis-kan", "Tamerlan", "Batu-kan"],
+    "correct": 1,
+    "explanation": "Džingis-kan ujedinio je mongolska plemena i stvorio najveće kopneno carstvo."
+  },
+  {
+    "question": "Koja godina se smatra godinom pada Zapadnog rimskog carstva?",
+    "answers": ["395", "410", "476", "527"],
+    "correct": 2,
+    "explanation": "476. godine poslednji car Romul Avgustul zbačen je sa vlasti."
+  },
+  {
+    "question": "Koja zemlja je otkrila pomorski put do Indije 1498.?",
+    "answers": ["Španija", "Portugalija", "Francuska", "Engleska"],
+    "correct": 1,
+    "explanation": "Vasko da Gama iz Portugalije otkriva morski put oko Afrike."
+  },
+  {
+    "question": "Ko je predvodio srpske ustanike 1804?",
+    "answers": ["Karađorđe Petrović", "Miloš Obrenović", "Stanoje Glavaš", "Hajduk Veljko"],
+    "correct": 0,
+    "explanation": "Karađorđe vodi Prvi srpski ustanak."
+  },
+  {
+    "question": "Koja država je bila najveća kolonijalna sila 19. veka?",
+    "answers": ["Francuska", "Nemačka", "Velika Britanija", "Holandija"],
+    "correct": 2,
+    "explanation": "Britansko carstvo bilo je najveća kolonijalna sila u istoriji."
+  },
+  {
+    "question": "Bitka na Kosovu dogodila se:",
+    "answers": ["1355.", "1389.", "1453.", "1479."],
+    "correct": 1,
+    "explanation": "Kosovska bitka se odigrala 28. juna 1389."
+  },
+  {
+    "question": "Ko je napisao 'Načertanije'?",
+    "answers": ["Vuk Karadžić", "Ilija Garašanin", "Miloš Obrenović", "Stojan Novaković"],
+    "correct": 1,
+    "explanation": "Ilija Garašanin 1844. piše program srpske politike."
+  },
+  {
+    "question": "Ko je osnovao Vizantijsko carstvo?",
+    "answers": ["Dioklecijan", "Konstantin Veliki", "Teodosije", "Julijan Odmetnik"],
+    "correct": 1,
+    "explanation": "Konstantin osniva Konstantinopolj 330. godine, osnova Vizantije."
+  },
+  {
+    "question": "Ko je bio poslednji vizantijski car?",
+       "answers": ["Jovan VIII", "Konstantin XI Paleolog", "Manuil II", "Andronik III"],
+    "correct": 1,
+    "explanation": "Konstantin XI pada braneći Carigrad 1453."
+  },
+  {
+    "question": "Koja bitka označava poraz Napoleona?",
+    "answers": ["Austerlic", "Vagram", "Borodino", "Vaterlo"],
+    "correct": 3,
+    "explanation": "Vaterlo 1815. označava njegov konačan pad."
+  },
+  {
+    "question": "Ko je bio prvi predsednik SFRJ?",
+    "answers": ["Aleksandar Ranković", "Josip Broz Tito", "Ivan Ribar", "Edvard Kardelj"],
+    "correct": 2,
+    "explanation": "Ivan Ribar je bio prvi predsednik Prezidijuma Narodne skupštine (1953)."
+  },
+  {
+    "question": "Koja kraljevska dinastija je vladala Srbijom do 1903?",
+    "answers": ["Obrenovići", "Karađorđevići", "Nemanjici", "Kotromanići"],
+    "correct": 0,
+    "explanation": "Dinastija Obrenović vladala je do Majskog prevrata."
+  },
+  {
+    "question": "Koja zemlja je prva koristeći štampu masovno širila knjige?",
+    "answers": ["Engleska", "Kina", "Nemačka", "Italija"],
+    "correct": 1,
+    "explanation": "Kinezi su vekovima pre Gutenberga štampali drvorezom."
+  },
+  {
+    "question": "Ko je otkrio Ameriku 1492?",
+    "answers": ["Vespuči", "Kolumbo", "Magelan", "Kortez"],
+    "correct": 1,
+    "explanation": "Kristifor Kolumbo dolazi do Amerike 1492."
+  },
+  {
+    "question": "Koja imperija je imala centar u današnjoj Turskoj?",
+    "answers": ["Rimska", "Osmanska", "Persijska", "Hunska"],
+    "correct": 1,
+    "explanation": "Osmansko carstvo trajalo je od 1299. do 1922."
+  },
+  {
+    "question": "Ko je bio prvi srpski kralj?",
+    "answers": ["Časlav", "Vukan", "Stefan Prvovenčani", "Dušan"],
+    "correct": 2,
+    "explanation": "Stefan Prvovenčani okrunjen je za kralja 1217."
+  },
+  {
+    "question": "Koja država je napala Poljsku 1939. i započela Drugi svetski rat?",
+    "answers": ["SSSR", "Nemačka", "Japan", "Italija"],
+    "correct": 1,
+    "explanation": "Nemački napad 1. septembra 1939. označio je početak rata."
+  },
+  {
+    "question": "U kojoj državi su nastali prvi gradovi u istoriji?",
+    "answers": ["Kina", "Egipat", "Indija", "Mesopotamija"],
+    "correct": 3,
+    "explanation": "Mesopotamija ima prve urbane centre (Uruk, Ur)."
+  },
+  {
+    "question": "Kada je osnovan NATO?",
+    "answers": ["1945", "1949", "1955", "1961"],
+    "correct": 1,
+    "explanation": "NATO je formiran 1949."
+  },
+  {
+    "question": "Gde je poginuo Aleksandar Veliki?",
+    "answers": ["Atina", "Babilon", "Peloponez", "Memfis"],
+    "correct": 1,
+    "explanation": "Umro je u Babilonu 323. p.n.e."
+  },
+  {
+    "question": "Ko je osnovao Srpsku pravoslavnu crkvu?",
+    "answers": ["Nemanja", "Sveti Sava", "Uroš", "Dušan"],
+    "correct": 1,
+    "explanation": "Sveti Sava 1219. dobija autokefalnost."
+  },
+  {
+    "question": "Velika seoba Srba dogodila se:",
+    "answers": ["1389.", "1521.", "1690.", "1804."],
+    "correct": 2,
+    "explanation": "Pod Arsenijem Čarnojevićem 1690."
+  },
+  {
+    "question": "Ko je bio prvi rimski hrišćanski car?",
+    "answers": ["Konstantin Veliki", "Julijan", "Neron", "Hadrijan"],
+    "correct": 0,
+    "explanation": "Konstantin objavljuje Milanski edikt 313."
+  },
+  {
+    "question": "Koja carevina je izgradila Kineski zid?",
+    "answers": ["Han", "Qin", "Tang", "Song"],
+    "correct": 1,
+    "explanation": "Dinastija Qin ujedinila je postojeće zidove u jedan sistem."
+  },
+  {
+    "question": "Koja bitka je prelomila rat između Srbije i Bugarske 1885?",
+    "answers": ["Pirot", "Šumen", "Slivnica", "Niš"],
+    "correct": 2,
+    "explanation": "Bitka kod Slivnice odlučila je ishod rata."
+  },
+  {
+    "question": "Ko je predvodio spartance u bici kod Termopila?",
+    "answers": ["Likurg", "Leonida", "Kserks", "Milcijad"],
+    "correct": 1,
+    "explanation": "Leonida I vodio je 300 Spartanaca protiv Persijanaca."
+  },
+  {
+    "question": "Koja carica je vladala Rusijom u 18. veku?",
+    "answers": ["Katarina Velika", "Ana Romanova", "Marija Fjodorovna", "Jelisaveta"],
+    "correct": 0,
+    "explanation": "Katarina Velika je vladala 1762–1796."
+  },
+  {
+    "question": "Gde je potpisan kraj Prvog svetskog rata?",
+    "answers": ["Berlin", "Pariz", "Versaj", "Beč"],
+    "correct": 2,
+    "explanation": "Versajski ugovor potpisan je 1919."
+  },
+  {
+    "question": "Ko je bio prvi imperator Japana?",
+    "answers": ["Meidži", "Akihito", "Džimu", "Jošihito"],
+    "correct": 2,
+    "explanation": "Car Džimu je legendarni osnivač japanske imperijalne loze."
+  },
+  {
+    "question": "Atinski političar poznat po demokratiji je:",
+    "answers": ["Sokrat", "Perikle", "Solon", "Aristotel"],
+    "correct": 1,
+    "explanation": "Perikle proširuje atinsku demokratiju."
+  },
+  {
+    "question": "Ko je napisao 'Ilijadu' i 'Odiseju'?",
+    "answers": ["Herodot", "Tukidid", "Homer", "Vergilije"],
+    "correct": 2,
+    "explanation": "Homer je autor ova dva epska speva."
+  },
+  {
+    "question": "Prijatelj i naslednik cara Dušana bio je:",
+    "answers": ["Uroš I", "Vukašin", "Lazar", "Uroš V"],
+    "correct": 3,
+    "explanation": "Uroš V (Nejaki) nasleđuje Dušana 1355."
+  },
+  {
+    "question": "Koja civilizacija je izgradila Maču Pikču?",
+    "answers": ["Inke", "Maje", "Asteci", "Tolteci"],
+    "correct": 0,
+    "explanation": "Inke grade Maču Pikču u 15. veku."
+  },
+  {
+    "question": "Ko je bio prvi srpski car?",
+    "answers": ["Dušan Silni", "Stefan Nemanja", "Kralj Marko", "Uroš II"],
+    "correct": 0,
+    "explanation": "Dušan 1346. postaje car Srba i Grka."
+  },
+  {
+    "question": "Koja država je imala 'samuraje'?",
+    "answers": ["Kina", "Koreja", "Japan", "Vijetnam"],
+    "correct": 2,
+    "explanation": "Samuraji su bili ratnički stalež Japana."
+  },
+  {
+    "question": "Ko je bio britanski premijer tokom većeg dela Drugog svetskog rata?",
+    "answers": ["Čemberlen", "Churchill", "Bler", "Tatcher"],
+    "correct": 1,
+    "explanation": "Vinston Čerčil postao je premijer 1940."
+  },
+  {
+    "question": "Gde je počela renesansa?",
+    "answers": ["Rim", "Firenca", "Venecija", "Napulj"],
+    "correct": 1,
+    "explanation": "Rana renesansa počinje u Firenci."
+  },
+  {
+    "question": "Ko je vodio Makedonce u pohodu na Persiju?",
+    "answers": ["Filip II", "Aleksandar Veliki", "Ptolomej", "Antigonos"],
+    "correct": 1,
+    "explanation": "Aleksandar poražava Persijsko carstvo 330. p.n.e."
+  },
+  {
+    "question": "Kojom godinom počinje srednji vek?",
+    "answers": ["395", "476", "529", "600"],
+    "correct": 1,
+    "explanation": "Padom Zapadnog rimskog carstva 476. smatra se početak srednjeg veka."
+  },
+  {
+    "question": "Ko je uveo kalendar koji danas koristimo?",
+    "answers": ["Avgust", "Konstantin", "Julije Cezar", "Trajan"],
+    "correct": 2,
+    "explanation": "Julijanski kalendar uveden je 46. p.n.e."
+  },
+  {
+    "question": "Koja država je izvršila prvi napad u Korejskom ratu?",
+    "answers": ["Južna Koreja", "Kina", "SAD", "Severna Koreja"],
+    "correct": 3,
+    "explanation": "Severna Koreja napada 1950. i započinje rat."
+  },
+  {
+    "question": "Ko je otkrio kružno kretanje planeta oko Sunca?",
+    "answers": ["Galileo", "Kepler", "Bruno", "Ptolomej"],
+    "correct": 1,
+    "explanation": "Kepler formuliše zakone orbitalnog kretanja."
+  },
+  {
+    "question": "Gde je nastao prvi univerzitet na svetu?",
+    "answers": ["Bolonja", "Kembridž", "Bagdad", "Atina"],
+    "correct": 0,
+    "explanation": "Univerzitet u Bolonji (1088) smatra se najstarijim."
+  }
+]
